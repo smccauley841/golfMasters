@@ -25,28 +25,28 @@ export class OddsService {
     if (typeof decimalOdds !== 'number') {
       throw new Error('Input must be a number');
     }
-  
+
     // Ensure decimalOdds is greater than or equal to 1
     if (decimalOdds < 1) {
       throw new Error('Decimal odds must be greater than or equal to 1');
     }
-  
+
     // Find the greatest common divisor (GCD) using the Euclidean algorithm
     function gcd(a: number, b: number): number {
       return b ? gcd(b, a % b) : a;
     }
-  
+
     // Get the denominator by multiplying the decimal odds by 100
     let denominator = 100;
-  
+
     // Get the numerator by rounding the result
     let numerator = Math.round(decimalOdds * denominator);
-  
+
     // Reduce the fraction by dividing both numerator and denominator by their greatest common divisor
     const divisor = gcd(numerator, denominator);
     numerator /= divisor;
     denominator /= divisor;
-  
+
     // Return the fraction as a string
     return `${numerator}/${denominator}`;
   }

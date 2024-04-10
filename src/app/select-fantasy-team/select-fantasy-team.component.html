@@ -1,0 +1,38 @@
+<div class="container">
+  <h2 *ngIf="!showChildComponent">Pick your team</h2>
+  <form *ngIf="!showChildComponent" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="singleItem">Pick any player:</label>
+      <select class="form-control" id="singleItem" [(ngModel)]="selectedItem" name="selectedItem" required>
+        <option *ngFor="let item of items" [value]="item.name">{{ item.name }}</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="groupItems1">Pick player from 20/1 or better:</label>
+      <select class="form-control" id="groupItems1" [(ngModel)]="selectedItem1" name="selectedGroupItems1" required>
+        <option [value]="item.name" *ngFor="let item of filterByGroup('Group1')">{{ item.name }}</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="groupItems2">Pick player from 21/1 - 40/1:</label>
+      <select class="form-control" id="groupItems2" [(ngModel)]="selectedItem2" name="selectedGroupItems2" required>
+        <option [value]="item.name" *ngFor="let item of filterByGroup('Group2')">{{ item.name }}</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="groupItems3">Pick player from 41/1 - 66/1:</label>
+      <select class="form-control" id="groupItems3" [(ngModel)]="selectedItem3" name="selectedGroupItems3" required>
+        <option [value]="item.name" *ngFor="let item of filterByGroup('Group3')">{{ item.name }}</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="groupItems4">Pick player from 67/1 and above:</label>
+      <select class="form-control" id="groupItems1" [(ngModel)]="selectedItem4" name="selectedGroupItems4" required>
+        <option [value]="item.name" *ngFor="let item of filterByGroup('Group4')">{{ item.name }}</option>
+      </select>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+
+  <app-submitted-data *ngIf="showChildComponent" [selectedItem]="selectedItem" [selectedGroupItems]="selectedGroupItems"></app-submitted-data>
+</div>
