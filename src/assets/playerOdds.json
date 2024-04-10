@@ -1,0 +1,447 @@
+[
+  {
+    "name": "Scottie Scheffler",
+    "price": "10/3",
+    "group": "Group1"
+  },
+  {
+    "name": "Rory McIlroy",
+    "price": "8/1",
+    "group": "Group1"
+  },
+  {
+    "name": "Jon Rahm",
+    "price": "10/1",
+    "group": "Group1"
+  },
+  {
+    "name": "Hideki Matsuyama",
+    "price": "11/1",
+    "group": "Group1"
+  },
+  {
+    "name": "Xander Schauffele",
+    "price": "11/1",
+    "group": "Group1"
+  },
+  {
+    "name": "Brooks Koepka",
+    "price": "14/1",
+    "group": "Group1"
+  },
+  {
+    "name": "Jordan Spieth",
+    "price": "14/1",
+    "group": "Group1"
+  },
+  {
+    "name": "Joaquin Niemann",
+    "price": "18/1",
+    "group": "Group1"
+  },
+  {
+    "name": "Ludvig Aberg",
+    "price": "20/1",
+    "group": "Group1"
+  },
+  {
+    "name": "Wyndham Clark",
+    "price": "20/1",
+    "group": "Group1"
+  },
+  {
+    "name": "Viktor Hovland",
+    "price": "22/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Bryson DeChambeau",
+    "price": "25/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Cameron Smith",
+    "price": "25/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Dustin Johnson",
+    "price": "25/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Matt Fitzpatrick",
+    "price": "25/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Patrick Cantlay",
+    "price": "25/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Shane Lowry",
+    "price": "25/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Will Zalatoris",
+    "price": "25/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Collin Morikawa",
+    "price": "28/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Justin Thomas",
+    "price": "28/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Sahith Theegala",
+    "price": "28/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Tommy Fleetwood",
+    "price": "28/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Tony Finau",
+    "price": "28/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Brian Harman",
+    "price": "33/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Cameron Young",
+    "price": "33/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Max Homa",
+    "price": "33/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Russell Henley",
+    "price": "40/1",
+    "group": "Group2"
+  },
+  {
+    "name": "Corey Conners",
+    "price": "45/1",
+    "group": "Group3"
+  },
+  {
+    "name": "Jason Day",
+    "price": "45/1",
+    "group": "Group3"
+  },
+  {
+    "name": "Patrick Reed",
+    "price": "45/1",
+    "group": "Group3"
+  },
+  {
+    "name": "Sergio Garcia",
+    "price": "45/1",
+    "group": "Group3"
+  },
+  {
+    "name": "Si Woo Kim",
+    "price": "45/1",
+    "group": "Group3"
+  },
+  {
+    "name": "Tyrrell Hatton",
+    "price": "45/1",
+    "group": "Group3"
+  },
+  {
+    "name": "Min Woo Lee",
+    "price": "50/1",
+    "group": "Group3"
+  },
+  {
+    "name": "Sam Burns",
+    "price": "50/1",
+    "group": "Group3"
+  },
+  {
+    "name": "Akshay Bhatia",
+    "price": "55/1",
+    "group": "Group3"
+  },
+  {
+    "name": "Sung-Jae Im",
+    "price": "55/1",
+    "group": "Group3"
+  },
+  {
+    "name": "Justin Rose",
+    "price": "66/1",
+    "group": "Group3"
+  },
+  {
+    "name": "Adam Scott",
+    "price": "70/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Denny Mccarthy",
+    "price": "70/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Tom Kim",
+    "price": "70/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Byeong Hun An",
+    "price": "80/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Phil Mickelson",
+    "price": "80/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Rickie Fowler",
+    "price": "80/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Stephan Jaeger",
+    "price": "80/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Tiger Woods",
+    "price": "80/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Adrian Meronk",
+    "price": "100/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Chris Kirk",
+    "price": "100/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Erik Van Rooyen",
+    "price": "100/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Harris English",
+    "price": "100/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Keegan Bradley",
+    "price": "100/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Matthieu Pavon",
+    "price": "100/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Nick Taylor",
+    "price": "100/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Nicolai Hojgaard",
+    "price": "100/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Sepp Straka",
+    "price": "100/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Adam Hadwin",
+    "price": "110/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Jake Knapp",
+    "price": "110/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Kurt Kitayama",
+    "price": "110/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Thorbjorn Olesen",
+    "price": "110/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Austin Eckroat",
+    "price": "125/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Lucas Glover",
+    "price": "125/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Taylor Moore",
+    "price": "125/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Ryan Fox",
+    "price": "150/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Bubba Watson",
+    "price": "175/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Cameron Davis",
+    "price": "175/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Charl Schwartzel",
+    "price": "175/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Emiliano Grillo",
+    "price": "175/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Eric Cole",
+    "price": "175/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Gary Woodland",
+    "price": "175/1",
+    "group": "Group4"
+  },
+  {
+    "name": "J.T. Poston",
+    "price": "175/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Nicholas Dunlap",
+    "price": "175/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Adam Schenk",
+    "price": "225/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Danny Willett",
+    "price": "225/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Peter Malnati",
+    "price": "225/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Luke List",
+    "price": "250/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Zach Johnson",
+    "price": "275/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Grayson Murray",
+    "price": "300/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Lee Hodges",
+    "price": "300/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Ryo Hisatsune",
+    "price": "300/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Camilo Villegas",
+    "price": "400/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Christo Lamprecht",
+    "price": "400/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Fred Couples",
+    "price": "600/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Jasper Stubbs",
+    "price": "600/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Jose Maria Olazabal",
+    "price": "600/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Mike Weir",
+    "price": "600/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Neal Shipley",
+    "price": "600/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Santiago De La Fuente",
+    "price": "600/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Stewart Hagestad",
+    "price": "600/1",
+    "group": "Group4"
+  },
+  {
+    "name": "Vijay Singh",
+    "price": "600/1",
+    "group": "Group4"
+  }
+]
