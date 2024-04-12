@@ -1,0 +1,11 @@
+.total-score {
+  float: right;
+}
+
+.player-name {
+  margin-right: 10px; /* Adjust margin as needed */
+}
+
+.total-score-container {
+  margin-top: 10px;
+}

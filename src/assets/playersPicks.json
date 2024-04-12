@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "player": "Scotty",
+    "Pick1": {"name": "Rory McIlroy", "Day1Score" : -1, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick2": {"name": "Jon Rahm", "Day1Score" : 1, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick3": {"name": "Patrick Cantlay", "Day1Score" : -1, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick4": {"name": "Sung-Jae Im", "Day1Score" : 5, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick5": {"name": "Sepp Straka", "Day1Score" : 1, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false}
+  },
+  {
+    "player": "Telford",
+    "Pick1": {"name": "Rory McIlroy", "Day1Score" : -1, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick2": {"name": "Joaquin Niemann", "Day1Score" : -2, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick3": {"name": "Viktor Hovland", "Day1Score" : -1, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick4": {"name": "Si Woo Kim", "Day1Score" : 2, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick5": {"name": "Rickie Fowler", "Day1Score" : 4, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false}
+  },
+  {
+    "player": "CK",
+    "Pick1": {"name": "Brooks Koepka", "Day1Score" : 1, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick2": {"name": "Hideki Matsuyama", "Day1Score" : 4, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick3": {"name": "Sahith Theegala", "Day1Score" : 2, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick4": {"name": "Jason Day", "Day1Score" : 3, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick5": {"name": "Adam Scott", "Day1Score" : 4, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false}
+  },
+  {
+    "player": "Ahern",
+    "Pick1": {"name": "Jon Rahm", "Day1Score" : 1, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick2": {"name": "Xander Schauffele", "Day1Score" : 0, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick3": {"name": "Viktor Hovland", "Day1Score" : -1, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick4": {"name": "Sam Burns", "Day1Score" : 8, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick5": {"name": "Chris Kirk", "Day1Score" : 2, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false}
+  },
+  {
+    "player": "Haughey",
+    "Pick1": {"name": "Rory McIlroy", "Day1Score" : -1, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick2": {"name": "Xander Schauffele", "Day1Score" : 0, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick3": {"name": "Shane Lowry", "Day1Score" : 1, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick4": {"name": "Min Woo Lee", "Day1Score" : 2, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false},
+    "Pick5": {"name": "Denny Mccarthy", "Day1Score" : 2, "Day2Score" : 0, "Day3Score" : 0, "Day4Score" : 0, "MissedCut": false}
+  }
+]
